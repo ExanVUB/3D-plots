@@ -19,3 +19,5 @@ for i in np.unique(data['color']):
             data['z1'][data['color'] == i], '-o')
 
 ax.set_xlabel('X'); ax.set_ylabel('Y'); ax.set_zlabel('Z')
+
+##Aaanpassing 1
