@@ -3,7 +3,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
 import os
 
-os.chdir('/Users/nicolas/Library/CloudStorage/OneDrive-VrijeUniversiteitBrussel/Onderzoek/n supraorbi occipitalis major/python xlsx files')
+os.chdir('./python xlsx files')
 import pandas as pd
 import numpy as np
 
